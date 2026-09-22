@@ -1,3 +1,4 @@
+// Second feature in dev branch
 // New feature in dev branch
 // Друга зміна для перевірки git
 // Перша зміна для перевірки git
