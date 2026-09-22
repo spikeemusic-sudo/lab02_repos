@@ -1,3 +1,4 @@
+// New feature in dev branch
 // Друга зміна для перевірки git
 // Перша зміна для перевірки git
 // Lab_02.cpp
