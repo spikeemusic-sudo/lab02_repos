@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 // New line for testing remote repository update
 // New commit in master branch
+=======
+// Second feature in dev branch
+// New feature in dev branch
+>>>>>>> dev
 // Друга зміна для перевірки git
 // Перша зміна для перевірки git
 // Lab_02.cpp
